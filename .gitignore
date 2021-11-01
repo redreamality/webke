@@ -1,0 +1,6 @@
+*.zip
+.history/*
+pretrained_model/*
+!pretrained_model/result_tiny
+pretrained_model/result_tiny/*
+!pretrained_model/result_tiny/readme.md

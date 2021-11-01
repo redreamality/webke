@@ -1,0 +1,3 @@
+python object_extraction_with_pos.py
+python segment_select_with_pos.py
+python predicate_extraction_with_pos.py
