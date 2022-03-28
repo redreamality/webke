@@ -41,8 +41,8 @@ This repository contains code and data for the paper: **WebKE: Knowledge Tripl
 ## How to reproduce
 
 1. Install all the dependencies in `requirements.txt`.
-2. Download and unzip the [pretrained model](https://kw.fudan.edu.cn/resources/data/webke/result_tiny.zip) and put them in the `../pretrained_model/result_tiny` dolder.
-3. Download and unzip the [prepocessed data](https://kw.fudan.edu.cn/resources/data/webke/webkedata.zip) and [weights](https://kw.fudan.edu.cn/resources/data/webke/webkeweights.zip) and put them into `dataset/` and `weight/`.
+2. Download and unzip the [pretrained model](http://kw.fudan.edu.cn/resources/data/webke/result_tiny.zip) and put them in the `../pretrained_model/result_tiny` dolder.
+3. Download and unzip the [prepocessed data](http://kw.fudan.edu.cn/resources/data/webke/webkedata.zip) and [weights](http://kw.fudan.edu.cn/resources/data/webke/webkeweights.zip) and put them into `dataset/` and `weight/`.
 4. (Optional) Run `train.sh` to re-train the model, this will overwrite the files in `weight/`.
 5. Run `html_extract_with_pos.py` to predict the test sites.
 
