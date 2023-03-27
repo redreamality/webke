@@ -1,1 +1,1 @@
-Download and unzip the [weights](https://kw.fudan.edu.cn/resources/data/webke/webkeweights.zip) here.
+Download and unzip the [weights](http://kw.fudan.edu.cn/resources/data/webke/webkeweights.zip) here.
